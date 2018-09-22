@@ -1,9 +1,9 @@
 React app installation(without Create React App) with Babel 7, Webpack 4, and React 16
 
-1. To install all the nececssary packages
+1. To install all the nececssary packages,
 run         npm install
 
-2. To bundle the packages and run the app on local server
+2. To bundle the packages and run the app on local server,
 run         npm run start
 
 
